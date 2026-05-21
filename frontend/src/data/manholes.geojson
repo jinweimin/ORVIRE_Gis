@@ -1,0 +1,80 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "mh_id": "MH-001", "depth": 2.1, "mh_type": "圆形检查井", "cover_level": 106.5, "invert_level": 104.4, "install_date": "2018-03-15" },
+      "geometry": { "type": "Point", "coordinates": [114.0436, 30.5282] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "mh_id": "MH-002", "depth": 2.8, "mh_type": "圆形检查井", "cover_level": 106.2, "invert_level": 103.4, "install_date": "2018-03-15" },
+      "geometry": { "type": "Point", "coordinates": [114.0453, 30.5282] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "mh_id": "MH-003", "depth": 3.1, "mh_type": "圆形检查井", "cover_level": 106.0, "invert_level": 102.9, "install_date": "2018-04-02" },
+      "geometry": { "type": "Point", "coordinates": [114.0469, 30.5282] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "mh_id": "MH-004", "depth": 3.5, "mh_type": "矩形检查井", "cover_level": 105.8, "invert_level": 102.3, "install_date": "2018-04-10" },
+      "geometry": { "type": "Point", "coordinates": [114.0490, 30.5282] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "mh_id": "MH-005", "depth": 4.0, "mh_type": "矩形检查井", "cover_level": 105.5, "invert_level": 101.5, "install_date": "2018-05-01" },
+      "geometry": { "type": "Point", "coordinates": [114.0504, 30.5282] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "mh_id": "MH-006", "depth": 4.5, "mh_type": "大型检查井", "cover_level": 105.2, "invert_level": 100.7, "install_date": "2018-05-15" },
+      "geometry": { "type": "Point", "coordinates": [114.0527, 30.5282] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "mh_id": "MH-007", "depth": 2.3, "mh_type": "圆形检查井", "cover_level": 106.0, "invert_level": 103.7, "install_date": "2018-06-01" },
+      "geometry": { "type": "Point", "coordinates": [114.0453, 30.5291] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "mh_id": "MH-008", "depth": 2.6, "mh_type": "圆形检查井", "cover_level": 105.8, "invert_level": 103.2, "install_date": "2018-06-10" },
+      "geometry": { "type": "Point", "coordinates": [114.0466, 30.5291] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "mh_id": "MH-009", "depth": 3.0, "mh_type": "圆形检查井", "cover_level": 105.5, "invert_level": 102.5, "install_date": "2018-07-01" },
+      "geometry": { "type": "Point", "coordinates": [114.0469, 30.5294] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "mh_id": "MH-010", "depth": 3.2, "mh_type": "矩形检查井", "cover_level": 105.3, "invert_level": 102.1, "install_date": "2018-07-15" },
+      "geometry": { "type": "Point", "coordinates": [114.0486, 30.5294] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "mh_id": "MH-011", "depth": 3.8, "mh_type": "矩形检查井", "cover_level": 105.0, "invert_level": 101.2, "install_date": "2018-08-01" },
+      "geometry": { "type": "Point", "coordinates": [114.0490, 30.5297] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "mh_id": "MH-012", "depth": 4.2, "mh_type": "大型检查井", "cover_level": 104.8, "invert_level": 100.6, "install_date": "2018-08-20" },
+      "geometry": { "type": "Point", "coordinates": [114.0508, 30.5297] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "mh_id": "MH-013", "depth": 4.8, "mh_type": "大型检查井", "cover_level": 104.5, "invert_level": 99.7, "install_date": "2018-09-05" },
+      "geometry": { "type": "Point", "coordinates": [114.0527, 30.5302] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "mh_id": "MH-014", "depth": 2.5, "mh_type": "圆形检查井", "cover_level": 105.6, "invert_level": 103.1, "install_date": "2018-09-20" },
+      "geometry": { "type": "Point", "coordinates": [114.0453, 30.5302] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "mh_id": "MH-015", "depth": 2.9, "mh_type": "圆形检查井", "cover_level": 105.4, "invert_level": 102.5, "install_date": "2018-10-01" },
+      "geometry": { "type": "Point", "coordinates": [114.0469, 30.5302] }
+    }
+  ]
+}

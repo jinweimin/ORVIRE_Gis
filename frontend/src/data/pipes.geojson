@@ -1,0 +1,105 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "pipe_id": "P-001", "upstream_mh": "MH-001", "downstream_mh": "MH-002", "diameter": 400, "material": "HDPE", "pipe_type": "污水管", "length": 156.3, "slope": 0.36 },
+      "geometry": { "type": "LineString", "coordinates": [[114.0436, 30.5282], [114.0453, 30.5282]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "pipe_id": "P-002", "upstream_mh": "MH-002", "downstream_mh": "MH-003", "diameter": 400, "material": "HDPE", "pipe_type": "污水管", "length": 142.5, "slope": 0.42 },
+      "geometry": { "type": "LineString", "coordinates": [[114.0453, 30.5282], [114.0469, 30.5282]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "pipe_id": "P-003", "upstream_mh": "MH-003", "downstream_mh": "MH-004", "diameter": 500, "material": "PVC", "pipe_type": "污水管", "length": 180.0, "slope": 0.30 },
+      "geometry": { "type": "LineString", "coordinates": [[114.0469, 30.5282], [114.0490, 30.5282]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "pipe_id": "P-004", "upstream_mh": "MH-004", "downstream_mh": "MH-005", "diameter": 500, "material": "PVC", "pipe_type": "污水管", "length": 125.0, "slope": 0.35 },
+      "geometry": { "type": "LineString", "coordinates": [[114.0490, 30.5282], [114.0504, 30.5282]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "pipe_id": "P-005", "upstream_mh": "MH-005", "downstream_mh": "MH-006", "diameter": 600, "material": "混凝土", "pipe_type": "雨水管", "length": 200.0, "slope": 0.25 },
+      "geometry": { "type": "LineString", "coordinates": [[114.0504, 30.5282], [114.0527, 30.5282]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "pipe_id": "P-006", "upstream_mh": "MH-002", "downstream_mh": "MH-007", "diameter": 300, "material": "HDPE", "pipe_type": "污水管", "length": 95.0, "slope": 0.50 },
+      "geometry": { "type": "LineString", "coordinates": [[114.0453, 30.5282], [114.0453, 30.5291]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "pipe_id": "P-007", "upstream_mh": "MH-007", "downstream_mh": "MH-008", "diameter": 300, "material": "HDPE", "pipe_type": "污水管", "length": 110.0, "slope": 0.45 },
+      "geometry": { "type": "LineString", "coordinates": [[114.0453, 30.5291], [114.0466, 30.5291]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "pipe_id": "P-008", "upstream_mh": "MH-003", "downstream_mh": "MH-009", "diameter": 400, "material": "PVC", "pipe_type": "雨水管", "length": 130.0, "slope": 0.38 },
+      "geometry": { "type": "LineString", "coordinates": [[114.0469, 30.5282], [114.0469, 30.5294]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "pipe_id": "P-009", "upstream_mh": "MH-009", "downstream_mh": "MH-010", "diameter": 400, "material": "PVC", "pipe_type": "雨水管", "length": 145.0, "slope": 0.33 },
+      "geometry": { "type": "LineString", "coordinates": [[114.0469, 30.5294], [114.0486, 30.5294]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "pipe_id": "P-010", "upstream_mh": "MH-004", "downstream_mh": "MH-011", "diameter": 600, "material": "混凝土", "pipe_type": "合流管", "length": 170.0, "slope": 0.28 },
+      "geometry": { "type": "LineString", "coordinates": [[114.0490, 30.5282], [114.0490, 30.5297]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "pipe_id": "P-011", "upstream_mh": "MH-011", "downstream_mh": "MH-012", "diameter": 600, "material": "混凝土", "pipe_type": "合流管", "length": 155.0, "slope": 0.30 },
+      "geometry": { "type": "LineString", "coordinates": [[114.0490, 30.5297], [114.0508, 30.5297]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "pipe_id": "P-012", "upstream_mh": "MH-006", "downstream_mh": "MH-013", "diameter": 800, "material": "混凝土", "pipe_type": "雨水管", "length": 220.0, "slope": 0.20 },
+      "geometry": { "type": "LineString", "coordinates": [[114.0527, 30.5282], [114.0527, 30.5302]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "pipe_id": "P-013", "upstream_mh": "MH-008", "downstream_mh": "MH-010", "diameter": 300, "material": "HDPE", "pipe_type": "污水管", "length": 175.0, "slope": 0.28 },
+      "geometry": { "type": "LineString", "coordinates": [[114.0466, 30.5291], [114.0486, 30.5294]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "pipe_id": "P-014", "upstream_mh": "MH-010", "downstream_mh": "MH-011", "diameter": 500, "material": "PVC", "pipe_type": "合流管", "length": 90.0, "slope": 0.55 },
+      "geometry": { "type": "LineString", "coordinates": [[114.0486, 30.5294], [114.0490, 30.5297]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "pipe_id": "P-015", "upstream_mh": "MH-012", "downstream_mh": "MH-013", "diameter": 600, "material": "混凝土", "pipe_type": "雨水管", "length": 170.0, "slope": 0.26 },
+      "geometry": { "type": "LineString", "coordinates": [[114.0508, 30.5297], [114.0527, 30.5302]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "pipe_id": "P-016", "upstream_mh": "MH-007", "downstream_mh": "MH-014", "diameter": 400, "material": "HDPE", "pipe_type": "污水管", "length": 120.0, "slope": 0.40 },
+      "geometry": { "type": "LineString", "coordinates": [[114.0453, 30.5291], [114.0453, 30.5302]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "pipe_id": "P-017", "upstream_mh": "MH-014", "downstream_mh": "MH-015", "diameter": 400, "material": "HDPE", "pipe_type": "污水管", "length": 135.0, "slope": 0.37 },
+      "geometry": { "type": "LineString", "coordinates": [[114.0453, 30.5302], [114.0469, 30.5302]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "pipe_id": "P-018", "upstream_mh": "MH-015", "downstream_mh": "MH-012", "diameter": 500, "material": "PVC", "pipe_type": "合流管", "length": 340.0, "slope": 0.18 },
+      "geometry": { "type": "LineString", "coordinates": [[114.0469, 30.5302], [114.0508, 30.5297]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "pipe_id": "P-019", "upstream_mh": "MH-013", "downstream_mh": "MH-015", "diameter": 300, "material": "HDPE", "pipe_type": "污水管", "length": 510.0, "slope": 0.12 },
+      "geometry": { "type": "LineString", "coordinates": [[114.0527, 30.5302], [114.0469, 30.5302]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "pipe_id": "P-020", "upstream_mh": "MH-009", "downstream_mh": "MH-014", "diameter": 350, "material": "PVC", "pipe_type": "雨水管", "length": 185.0, "slope": 0.22 },
+      "geometry": { "type": "LineString", "coordinates": [[114.0469, 30.5294], [114.0453, 30.5302]] }
+    }
+  ]
+}
